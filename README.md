@@ -13,12 +13,13 @@
     <a href="https://note.youdao.com/s/ILVdWDOg"><strong>查看文档 »</strong></a>
     <br />
     <br />
-    <a href="https://gitee.com/bfzw/smart-party-building-system.git">查看演示</a>
+    <a href="https://github.com/1593084145/-?tab=readme-ov-file">查看演示</a>
     ·
-    <a href="https://gitee.com/bfzw/smart-party-building-system/issues">提交问题</a>
+    <a href="https://github.com/1593084145/-/issues">提交问题</a>
     ·
-    <a href="https://gitee.com/bfzw/smart-party-building-system/issues">反馈问题</a>
+    <a href="https://github.com/1593084145/-/issues">反馈问题</a>
   </p>
+
 
 </div>
 
@@ -32,7 +33,7 @@
 
 ## 项目 web 地址
 
-项目地址 : [点击进入](https://gitee.com/bfzw/smart-party-building-system)
+项目地址 : [点击进入](https://github.com/1593084145/-)
 
 Java商业版本 : 请加微信联系
 
